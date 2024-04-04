@@ -23,8 +23,6 @@ width: 60%;
 margin:auto;
 background-color: white;
 margin-top: 1%;
-
-
 padding: 10px;
 }
 
@@ -45,7 +43,64 @@ padding: 5px;
 
 .task-2{
 padding: 5px;
-background-color: white;
+background-color: grey;
 border-radius: 10%;
 border-color:#DBDFE1;
 }
+
+.rettangolo-blu{
+    padding: 5px;
+    font-size: 10px;
+    height: 10px;
+    border-radius:5px;
+    background-color: #46ADF1;
+  }
+.rettangolo-viola{
+    padding: 5px;
+    font-size: 10px;
+    height: 10px;
+    border-radius: 5px;
+    background-color: rgba(137, 43, 226, 0.683);
+  }
+.rettangolo-verde-scuro{
+    padding: 6px;
+    font-size: 10px;
+    height: 15px;
+    border-radius: 10px;
+    background-color: rgba(121, 173, 43, 0.631);
+  }
+
+  .rettangolo-verde-chiaro{
+    padding: 5px;
+    font-size: 10px;
+    height: 10px;
+    border-radius: 5px;
+  }
+  .rettangolo-arancione{
+    padding: 5px;
+    font-size: 10px;
+    height: 10px;
+    border-radius: 5px;
+    background-color: orange; 
+  }
+
+  .contenitore{
+width: 800px;
+height: 700px;
+margin: auto;
+
+
+  }
+  
+  .informazioni{
+    margin: 1rem;
+  }
+
+  .fatto{
+    color: green;
+  }
+
+  .da-fare{
+    color: red;
+  }
+  
