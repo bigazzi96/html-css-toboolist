@@ -15,15 +15,37 @@ header{
 .title{
     font-size: 4rem;
     display: inline;
-    padding-left: 0,5rem;
+    margin-left: 10px;
     vertical-align: middle;
 }
+.bottoni{
+width: 60%;
+margin:auto;
+background-color: white;
+margin-top: 1%;
 
+
+padding: 10px;
+}
 
 
 .logo{
     height: 4em;
     vertical-align: middle;
+}
 
+.task-1{
+background-color: #46ADF1;
+color: white;
+border-radius: 10%;
+border: 0;
+margin-left: 5%;
+padding: 5px;
+}
 
+.task-2{
+padding: 5px;
+background-color: white;
+border-radius: 10%;
+border-color:#DBDFE1;
 }
